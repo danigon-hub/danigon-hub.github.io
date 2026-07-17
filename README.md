@@ -1,4 +1,4 @@
-# slothhhhhhhhhhub.github.io
+# danigon-hub.github.io
 My Portfolio Website hosted by GitHub Pages
 
 # 💻 Danielle Gonzales | Portfolio Website
@@ -7,7 +7,7 @@ Welcome to my personal developer portfolio built with HTML, CSS, and JavaScript(
 This site serves as a showcase of my skills, projects, and experience as I grow in the world of software engineering and design.
 
 ## 🚀 Live Website
-🔗 [Visit my Page!!](https://slothhhhhhhhhhub.github.io/)
+🔗 [Visit my Page!!](https://danigon-hub.github.io/)
 
 ## 📌 Features
 - 🔹 **Home Page** – A short introduction to me.
